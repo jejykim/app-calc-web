@@ -1,0 +1,175 @@
+{
+	"벤츠" : [
+		{ "name" : "A-Class", "sort" : 1 }
+		,{ "name" : "C-Class", "sort" : 2 }
+		,{ "name" : "E-Class", "sort" : 3 }
+		,{ "name" : "S-Class", "sort" : 4 }
+		,{ "name" : "S-Class(Maybach)", "sort" : 5 }
+		,{ "name" : "GLA-Class", "sort" : 6 }
+		,{ "name" : "GLB-Class", "sort" : 7 }
+		,{ "name" : "GLC-Class", "sort" : 8 }
+		,{ "name" : "GLE-Class", "sort" : 9 }
+		,{ "name" : "GLS-Class", "sort" : 10 }
+		,{ "name" : "GLS-Class(Maybach)", "sort" : 11 }
+		,{ "name" : "G-Class", "sort" : 12 }
+		,{ "name" : "CLA-Class", "sort" : 13 }
+		,{ "name" : "CLS-Class", "sort" : 14 }
+		,{ "name" : "SL-Class", "sort" : 15 }
+		,{ "name" : "AMG GT", "sort" : 18 }
+		,{ "name" : "Sprinter", "sort" : 17 }
+		,{ "name" : "EQA", "sort" : 18 }
+		,{ "name" : "EQB", "sort" : 19 }
+		,{ "name" : "EQC", "sort" : 20 }
+		,{ "name" : "EQE", "sort" : 21 }
+		,{ "name" : "EQS", "sort" : 22 }
+		,{ "name" : "EQS(SUV)", "sort" : 23 }
+	]
+	, "BMW" : [
+		{ "name" : "1 시리즈", "sort" : 1 }
+		,{ "name" : "2 시리즈", "sort" : 2 }
+		,{ "name" : "3 시리즈", "sort" : 3 }
+		,{ "name" : "4 시리즈", "sort" : 4 }
+		,{ "name" : "5 시리즈", "sort" : 5 }
+		,{ "name" : "6 시리즈", "sort" : 6 }
+		,{ "name" : "7 시리즈", "sort" : 7 }
+		,{ "name" : "8 시리즈", "sort" : 8 }
+		,{ "name" : "Z4 시리즈", "sort" : 9 }
+		,{ "name" : "X1 시리즈", "sort" : 10 }
+		,{ "name" : "X2 시리즈", "sort" : 11 }
+		,{ "name" : "X3 시리즈", "sort" : 12 }
+		,{ "name" : "X4 시리즈", "sort" : 13 }
+		,{ "name" : "X5 시리즈", "sort" : 14 }
+		,{ "name" : "X6 시리즈", "sort" : 15 }
+		,{ "name" : "X7 시리즈", "sort" : 16 }
+		,{ "name" : "iX 시리즈", "sort" : 17 }
+		,{ "name" : "iX1 시리즈", "sort" : 18 }
+		,{ "name" : "iX3 시리즈", "sort" : 19 }
+		,{ "name" : "i3 시리즈", "sort" : 20 }
+		,{ "name" : "i4 시리즈", "sort" : 21 }
+		,{ "name" : "i7 시리즈", "sort" : 22 }
+	]
+	, "아우디" : [
+		{ "name" : "A1", "sort" : 1 }
+		,{ "name" : "A3", "sort" : 2 }
+		,{ "name" : "A4", "sort" : 3 }
+		,{ "name" : "A5", "sort" : 4 }
+		,{ "name" : "A6", "sort" : 5 }
+		,{ "name" : "A7", "sort" : 6 }
+		,{ "name" : "Q2", "sort" : 7 }
+		,{ "name" : "Q3", "sort" : 8 }
+		,{ "name" : "Q5", "sort" : 9 }
+		,{ "name" : "Q7", "sort" : 10 }
+		,{ "name" : "Q8", "sort" : 11 }
+		,{ "name" : "R8", "sort" : 12 }
+		,{ "name" : "RS", "sort" : 13 }
+		,{ "name" : "e-tron", "sort" : 14 }
+		,{ "name" : "e-tron GT", "sort" : 15 }
+		,{ "name" : "Q4 e-tron", "sort" : 16 }
+		,{ "name" : "A6 e-tron", "sort" : 17 }
+	]
+	, "포르쉐" : [
+		{ "name" : "Boxster", "sort" : 1 }
+		,{ "name" : "Cayman", "sort" : 2 }
+		,{ "name" : "911", "sort" : 3 }
+		,{ "name" : "Macan", "sort" : 4 }
+		,{ "name" : "Cayenne", "sort" : 5 }
+		,{ "name" : "Panamera", "sort" : 6 }
+		,{ "name" : "Taycan", "sort" : 7 }
+	]
+	, "랜드로버" : [
+		{ "name" : "Defender", "sort" : 1 }
+		,{ "name" : "Discovery", "sort" : 2 }
+		,{ "name" : "Discovery Sport", "sort" : 3 }
+		,{ "name" : "Range Rover Evoque", "sort" : 4 }
+		,{ "name" : "Range Rover Velar", "sort" : 5 }
+		,{ "name" : "Range Rover Sport", "sort" : 6 }
+		,{ "name" : "Range Rover", "sort" : 7 }
+	]
+	, "재규어" : [
+		{ "name" : "XF", "sort" : 1 }
+		,{ "name" : "F-Pace", "sort" : 2 }
+		,{ "name" : "F-Type", "sort" : 3 }
+	]
+	, "벤틀리" : [
+		{ "name" : "Flying Spur", "sort" : 1 }
+		,{ "name" : "Continental", "sort" : 2 }
+		,{ "name" : "Bentayga", "sort" : 3 }
+	]
+	, "볼보" : [
+		{ "name" : "C40 Recharge", "sort" : 1 }
+		,{ "name" : "XC40", "sort" : 2 }
+		,{ "name" : "XC40 Recharge", "sort" : 3 }
+		,{ "name" : "XC60", "sort" : 4 }
+		,{ "name" : "XC90", "sort" : 5 }
+		,{ "name" : "S60", "sort" : 6 }
+		,{ "name" : "S90", "sort" : 7 }
+		,{ "name" : "V60 Cross Country", "sort" : 8 }
+		,{ "name" : "V90 Cross Country", "sort" : 9 }
+	]
+	, "폭스바겐" : [
+		{ "name" : "Jetta", "sort" : 1 }
+		,{ "name" : "Golf", "sort" : 2 }
+		,{ "name" : "Passat GT", "sort" : 3 }
+		,{ "name" : "Arteon", "sort" : 4 }
+		,{ "name" : "T-Roc", "sort" : 5 }
+		,{ "name" : "Tiguan", "sort" : 6 }
+	]
+	, "렉서스" : [
+		{ "name" : "IS", "sort" : 1 }
+		,{ "name" : "ES", "sort" : 2 }
+		,{ "name" : "LS", "sort" : 3 }
+		,{ "name" : "RC", "sort" : 4 }
+		,{ "name" : "LC", "sort" : 5 }
+		,{ "name" : "UX", "sort" : 6 }
+		,{ "name" : "NX", "sort" : 7 }
+		,{ "name" : "RX", "sort" : 8 }
+	]
+	, "도요타" : [
+		{ "name" : "Camry", "sort" : 1 }
+		,{ "name" : "Avalon", "sort" : 2 }
+		,{ "name" : "RAV4", "sort" : 3 }
+		,{ "name" : "Sienna", "sort" : 4 }
+		,{ "name" : "Prius", "sort" : 5 }
+		,{ "name" : "Prius Prime", "sort" : 6 }
+		,{ "name" : "GR 86", "sort" : 7 }
+		,{ "name" : "GR SUPRA", "sort" : 8 }
+	]
+	, "포드" : [
+		{ "name" : "Ranger", "sort" : 1 }
+		,{ "name" : "Bronco", "sort" : 2 }
+		,{ "name" : "Explorer", "sort" : 3 }
+		,{ "name" : "Expedition", "sort" : 4 }
+		,{ "name" : "Mustang", "sort" : 5 }
+	]
+	, "링컨" : [
+		{ "name" : "Corsair", "sort" : 1 }
+		,{ "name" : "Nautilus", "sort" : 2 }
+		,{ "name" : "Aviator", "sort" : 3 }
+		,{ "name" : "Navigator", "sort" : 4 }
+	]
+	, "미니" : [
+		{ "name" : "Hatch", "sort" : 1 }
+		,{ "name" : "Clubman", "sort" : 2 }
+		,{ "name" : "Countryman", "sort" : 3 }
+		,{ "name" : "Convertible", "sort" : 4 }
+		,{ "name" : "Electric", "sort" : 5 }
+	]
+	, "지프" : [
+		{ "name" : "Renegade", "sort" : 1 }
+		,{ "name" : "Compass", "sort" : 2 }
+		,{ "name" : "Wrangler", "sort" : 3 }
+		,{ "name" : "Gladiator", "sort" : 4 }
+		,{ "name" : "Cherokee", "sort" : 5 }
+		,{ "name" : "Grand Cherokee", "sort" : 6 }
+		,{ "name" : "Grand Cherokee L", "sort" : 7 }
+	]
+	, "혼다" : [
+		{ "name" : "Accord", "sort" : 1 }
+		,{ "name" : "CR-V", "sort" : 2 }
+		,{ "name" : "Pilot", "sort" : 3 }
+		,{ "name" : "Odyssey", "sort" : 4 }
+	]
+	, "기타" : [
+		{ "name" : "기타", "sort" : 1 }
+	]
+}

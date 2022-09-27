@@ -1,0 +1,255 @@
+{
+	"AUDI" : [
+		{ "name" : "A4", "sort" : 1 }
+		,{ "name" : "S4", "sort" : 2 }
+		,{ "name" : "A5", "sort" : 3 }
+		,{ "name" : "S5", "sort" : 4 }
+		,{ "name" : "RS5", "sort" : 5 }
+		,{ "name" : "A6", "sort" : 6 }
+		,{ "name" : "S6", "sort" : 7 }
+		,{ "name" : "RS6 Avant", "sort" : 8 }
+		,{ "name" : "A7", "sort" : 9 }
+		,{ "name" : "S7", "sort" : 10 }
+		,{ "name" : "RS7", "sort" : 11 }
+		,{ "name" : "A8", "sort" : 12 }
+		,{ "name" : "S8", "sort" : 13 }
+		,{ "name" : "R8", "sort" : 14 }
+		,{ "name" : "Q2", "sort" : 15 }
+		,{ "name" : "Q3", "sort" : 16 }
+		,{ "name" : "Q3 SB", "sort" : 17 }
+		,{ "name" : "Q5", "sort" : 18 }
+		,{ "name" : "Q5 SB", "sort" : 19 }
+		,{ "name" : "SQ5", "sort" : 20 }
+		,{ "name" : "SQ5 SB", "sort" : 21 }
+		,{ "name" : "Q7", "sort" : 22 }
+		,{ "name" : "Q8", "sort" : 23 }
+		,{ "name" : "SQ8", "sort" : 24 }
+		,{ "name" : "RS Q8", "sort" : 25 }
+		,{ "name" : "e-tron", "sort" : 26 }
+		,{ "name" : "e-tron SB", "sort" : 27 }
+		,{ "name" : "e-tron GT", "sort" : 28 }
+	]
+	, "Bentley" : [
+		{ "name" : "New Bentayga", "sort" : 1 }
+		,{ "name" : "Bentayga", "sort" : 2 }
+		,{ "name" : "New Continental", "sort" : 3 }
+		,{ "name" : "New Flying Spur", "sort" : 4 }
+		,{ "name" : "Mulsanne", "sort" : 5 }
+	]
+	, "BMW" : [
+		{ "name" : "120i", "sort" : 1 }
+		,{ "name" : "M135i", "sort" : 1 }
+		,{ "name" : "220i", "sort" : 1 }
+		,{ "name" : "M235i", "sort" : 1 }
+		,{ "name" : "320d", "sort" : 1 }
+		,{ "name" : "320i", "sort" : 1 }
+		,{ "name" : "M340i", "sort" : 1 }
+		,{ "name" : "320e", "sort" : 1 }
+		,{ "name" : "330e", "sort" : 1 }
+		,{ "name" : "320i Touring", "sort" : 1 }
+		,{ "name" : "M340i Touring", "sort" : 1 }
+		,{ "name" : "320d Touring", "sort" : 1 }
+		,{ "name" : "420d Coupe", "sort" : 1 }
+		,{ "name" : "420i Coupe", "sort" : 1 }
+		,{ "name" : "430i Coupe", "sort" : 1 }
+		,{ "name" : "420i Gran Coupe", "sort" : 1 }
+		,{ "name" : "420d Gran Coupe", "sort" : 1 }
+		,{ "name" : "420i Convertible", "sort" : 1 }
+		,{ "name" : "M440i Coupe", "sort" : 1 }
+		,{ "name" : "M440i Convertible", "sort" : 1 }
+		,{ "name" : "520i", "sort" : 1 }
+		,{ "name" : "530i", "sort" : 1 }
+		,{ "name" : "M550i", "sort" : 1 }
+		,{ "name" : "523d", "sort" : 1 }
+		,{ "name" : "530e", "sort" : 1 }
+		,{ "name" : "620d GT", "sort" : 1 }
+		,{ "name" : "630i GT", "sort" : 1 }
+		,{ "name" : "640i GT", "sort" : 1 }
+		,{ "name" : "730d", "sort" : 1 }
+		,{ "name" : "730Ld", "sort" : 1 }
+		,{ "name" : "740d", "sort" : 1 }
+		,{ "name" : "740i", "sort" : 1 }
+		,{ "name" : "740Li", "sort" : 1 }
+		,{ "name" : "750Li", "sort" : 1 }
+		,{ "name" : "M 760Li", "sort" : 1 }
+		,{ "name" : "745e", "sort" : 1 }
+		,{ "name" : "745Le", "sort" : 1 }
+		,{ "name" : "840i Coupe", "sort" : 1 }
+		,{ "name" : "840i Gran Coupe", "sort" : 1 }
+		,{ "name" : "840d Gran Coupe", "sort" : 1 }
+		,{ "name" : "M2", "sort" : 1 }
+		,{ "name" : "M3", "sort" : 1 }
+		,{ "name" : "M4", "sort" : 1 }
+		,{ "name" : "M5", "sort" : 1 }
+		,{ "name" : "M8", "sort" : 1 }
+		,{ "name" : "Z4", "sort" : 1 }
+		,{ "name" : "X1", "sort" : 1 }
+		,{ "name" : "X2", "sort" : 1 }
+		,{ "name" : "X3", "sort" : 1 }
+		,{ "name" : "X4", "sort" : 1 }
+		,{ "name" : "X5", "sort" : 1 }
+		,{ "name" : "X6", "sort" : 1 }
+		,{ "name" : "X7", "sort" : 1 }
+		,{ "name" : "i4", "sort" : 1 }
+		,{ "name" : "iX3", "sort" : 1 }
+		,{ "name" : "iX", "sort" : 1 }
+	]
+	, "CADILLAC" : [
+		{ "name" : "CT4", "sort" : 1 }
+		,{ "name" : "CT5", "sort" : 1 }
+		,{ "name" : "XT4", "sort" : 1 }
+		,{ "name" : "XT5", "sort" : 1 }
+		,{ "name" : "XT6", "sort" : 1 }
+		,{ "name" : "ESCALADE", "sort" : 1 }
+	]
+	, "Ferrari" : [
+		{ "name" : "Portofino", "sort" : 1 }
+		,{ "name" : "GTC4 Lusso", "sort" : 1 }
+		,{ "name" : "GTC4 Lusso T", "sort" : 1 }
+		,{ "name" : "812 Superfast", "sort" : 1 }
+		,{ "name" : "F8 Tributo", "sort" : 1 }
+	]
+	, "Ford-Lincoln" : [
+		{ "name" : "Explorer", "sort" : 1 }
+		,{ "name" : "Expedition", "sort" : 1 }
+		,{ "name" : "Bronco", "sort" : 1 }
+		,{ "name" : "MUSTANG", "sort" : 1 }
+		,{ "name" : "Nautilus", "sort" : 1 }
+		,{ "name" : "Corsair", "sort" : 1 }
+		,{ "name" : "Aviator", "sort" : 1 }
+		,{ "name" : "Navigator", "sort" : 1 }
+	]
+	, "HONDA" : [
+		{ "name" : "ACCORD", "sort" : 1 }
+		,{ "name" : "CIVIC Sport", "sort" : 1 }
+		,{ "name" : "CR-V", "sort" : 1 }
+		,{ "name" : "ODYSSEY", "sort" : 1 }
+		,{ "name" : "PILOT", "sort" : 1 }
+	]
+	, "Jaguar-Landrover" : [
+		{ "name" : "F-Type Convertible", "sort" : 1 }
+		,{ "name" : "F-Type Coupe", "sort" : 1 }
+		,{ "name" : "XF", "sort" : 1 }
+		,{ "name" : "F-PACE", "sort" : 1 }
+		,{ "name" : "Discovery", "sort" : 1 }
+		,{ "name" : "Discovery Sport", "sort" : 1 }
+		,{ "name" : "Range Rover Evoque", "sort" : 1 }
+		,{ "name" : "Range Rover Sport", "sort" : 1 }
+		,{ "name" : "The New Range Rover", "sort" : 1 }
+		,{ "name" : "Range Rover", "sort" : 1 }
+		,{ "name" : "Range Rover Velar", "sort" : 1 }
+		,{ "name" : "Defender", "sort" : 1 }
+	]
+	, "Jeep" : [
+		{ "name" : "Wrangler", "sort" : 1 }
+		,{ "name" : "Renegade", "sort" : 1 }
+		,{ "name" : "Cherokee", "sort" : 1 }
+		,{ "name" : "Grand Cherokee L", "sort" : 1 }
+		,{ "name" : "Grand Cherokee", "sort" : 1 }
+		,{ "name" : "Compass", "sort" : 1 }
+	]
+	, "Lamborghini" : [
+		{ "name" : "Urus", "sort" : 1 }
+		,{ "name" : "Aventador", "sort" : 1 }
+		,{ "name" : "Huracan EVO", "sort" : 1 }
+	]
+	, "LEXUS" : [
+		{ "name" : "CT", "sort" : 1 }
+		,{ "name" : "IS", "sort" : 1 }
+		,{ "name" : "ES", "sort" : 1 }
+		,{ "name" : "LS", "sort" : 1 }
+		,{ "name" : "UX", "sort" : 1 }
+		,{ "name" : "New NX", "sort" : 1 }
+		,{ "name" : "RX", "sort" : 1 }
+		,{ "name" : "RC", "sort" : 1 }
+		,{ "name" : "LC", "sort" : 1 }
+	]
+	, "MASERATI" : [
+		{ "name" : "Ghibli", "sort" : 1 }
+		,{ "name" : "Quattroporte", "sort" : 1 }
+		,{ "name" : "Levante", "sort" : 1 }
+		,{ "name" : "Gran Turismo", "sort" : 1 }
+		,{ "name" : "Grancabrio", "sort" : 1 }
+		,{ "name" : "MC20", "sort" : 1 }
+	]
+	, "Mercedes-Benz" : [
+		{ "name" : "A", "sort" : 1 }
+		,{ "name" : "New C", "sort" : 1 }
+		,{ "name" : "C", "sort" : 1 }
+		,{ "name" : "E", "sort" : 1 }
+		,{ "name" : "S", "sort" : 1 }
+		,{ "name" : "Maybach S", "sort" : 1 }
+		,{ "name" : "CLA", "sort" : 1 }
+		,{ "name" : "CLS", "sort" : 1 }
+		,{ "name" : "GLA", "sort" : 1 }
+		,{ "name" : "GLB", "sort" : 1 }
+		,{ "name" : "GLC", "sort" : 1 }
+		,{ "name" : "GLE", "sort" : 1 }
+		,{ "name" : "GLS", "sort" : 1 }
+		,{ "name" : "Maybach GLS", "sort" : 1 }
+		,{ "name" : "G", "sort" : 1 }
+		,{ "name" : "AMG GT 4door", "sort" : 1 }
+		,{ "name" : "AMG GT", "sort" : 1 }
+		,{ "name" : "EQA", "sort" : 1 }
+		,{ "name" : "EQB", "sort" : 1 }
+		,{ "name" : "EQC", "sort" : 1 }
+		,{ "name" : "EQS", "sort" : 1 }
+	]
+	, "MINI" : [
+		{ "name" : "MINI Clubman", "sort" : 1 }
+		,{ "name" : "MINI Countryman", "sort" : 1 }
+		,{ "name" : "MINI Hatch", "sort" : 1 }
+		,{ "name" : "MINI Convertible", "sort" : 1 }
+	]
+	, "PEUGEOT" : [
+		{ "name" : "e-208", "sort" : 1 }
+		,{ "name" : "2008", "sort" : 1 }
+		,{ "name" : "e-2008", "sort" : 1 }
+		,{ "name" : "308", "sort" : 1 }
+		,{ "name" : "3008", "sort" : 1 }
+		,{ "name" : "508", "sort" : 1 }
+		,{ "name" : "508 SW", "sort" : 1 }
+		,{ "name" : "5008", "sort" : 1 }
+	]
+	, "PORSCHE" : [
+		{ "name" : "911", "sort" : 1 }
+		,{ "name" : "718 BOXSTER", "sort" : 1 }
+		,{ "name" : "718 Cayman", "sort" : 1 }
+		,{ "name" : "Cayenne", "sort" : 1 }
+		,{ "name" : "The New Macan", "sort" : 1 }
+		,{ "name" : "Macan", "sort" : 1 }
+		,{ "name" : "Panamera", "sort" : 1 }
+		,{ "name" : "Taycan", "sort" : 1 }
+		,{ "name" : "Taycan Cross Turismo", "sort" : 1 }
+	]
+	, "TOYOTA" : [
+		{ "name" : "AVALON", "sort" : 1 }
+		,{ "name" : "PRIUS", "sort" : 1 }
+		,{ "name" : "RAV4", "sort" : 1 }
+		,{ "name" : "CAMRY", "sort" : 1 }
+		,{ "name" : "GR SUPRA", "sort" : 1 }
+		,{ "name" : "Toyota 86", "sort" : 1 }
+		,{ "name" : "SIENNA", "sort" : 1 }
+	]
+	, "VOLKSWAGEN" : [
+		{ "name" : "Jetta", "sort" : 1 }
+		,{ "name" : "Passat GT", "sort" : 1 }
+		,{ "name" : "Arteon", "sort" : 1 }
+		,{ "name" : "The Golf 8", "sort" : 1 }
+		,{ "name" : "T-Roc", "sort" : 1 }
+		,{ "name" : "The New Tiguan", "sort" : 1 }
+		,{ "name" : "Touareg", "sort" : 1 }
+	]
+	, "VOLVO" : [
+		{ "name" : "XC40", "sort" : 1 }
+		,{ "name" : "XC60", "sort" : 1 }
+		,{ "name" : "XC90", "sort" : 1 }
+		,{ "name" : "S60", "sort" : 1 }
+		,{ "name" : "S90", "sort" : 1 }
+		,{ "name" : "V60 CC", "sort" : 1 }
+		,{ "name" : "V90 CC", "sort" : 1 }
+	]
+	, "기타" : [
+		{ "name" : "기타", "sort" : 1 }
+	]
+}

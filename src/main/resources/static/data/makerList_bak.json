@@ -1,0 +1,22 @@
+[
+	{ "name" : "AUDI", "sort" : 1 },
+	{ "name" : "Bentley", "sort" : 2 },
+	{ "name" : "BMW", "sort" : 3 },
+	{ "name" : "CADILLAC", "sort" : 4 },
+	{ "name" : "Ferrari", "sort" : 5 },
+	{ "name" : "Ford-Lincoln", "sort" : 6 },
+	{ "name" : "HONDA", "sort" : 7 },
+	{ "name" : "Jaguar-Landrover", "sort" : 8 },
+	{ "name" : "Jeep", "sort" : 9 },
+	{ "name" : "Lamborghini", "sort" : 10 },
+	{ "name" : "LEXUS", "sort" : 11 },
+	{ "name" : "MASERATI", "sort" : 12 },
+	{ "name" : "Mercedes-Benz", "sort" : 13 },
+	{ "name" : "MINI", "sort" : 14 },
+	{ "name" : "PEUGEOT", "sort" : 15 },
+	{ "name" : "PORSCHE", "sort" : 16 },
+	{ "name" : "TOYOTA", "sort" : 17 },
+	{ "name" : "VOLKSWAGEN", "sort" : 18 },
+	{ "name" : "VOLVO", "sort" : 19 },
+	{ "name" : "기타", "sort" : 20 }
+]

@@ -1,0 +1,19 @@
+[
+	{ "name" : "벤츠", "sort" : 1 },
+	{ "name" : "BMW", "sort" : 2 },
+	{ "name" : "아우디", "sort" : 3 },
+	{ "name" : "포르쉐", "sort" : 4 },
+	{ "name" : "랜드로버", "sort" : 5 },
+	{ "name" : "재규어", "sort" : 6 },
+	{ "name" : "벤틀리", "sort" : 7 },
+	{ "name" : "볼보", "sort" : 8 },
+	{ "name" : "폭스바겐", "sort" : 9 },
+	{ "name" : "렉서스", "sort" : 10 },
+	{ "name" : "도요타", "sort" : 11 },
+	{ "name" : "포드", "sort" : 12 },
+	{ "name" : "링컨", "sort" : 13 },
+	{ "name" : "미니", "sort" : 14 },
+	{ "name" : "지프", "sort" : 15 },
+	{ "name" : "혼다", "sort" : 16 },
+	{ "name" : "기타", "sort" : 17 }
+]

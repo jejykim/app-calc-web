@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.boras.rateCalc.mapper.CustomerMapper">
+  	
+  	<!-- 연락처 등록 -->
+  	<insert id="insertCustomerTel" parameterType="customerVO">
+		INSERT INTO customer(
+			tel,
+			car_maker,
+			car_brand,
+			lease_month,
+			lease_cost,
+			advance_payment,
+			acquisition_cost,
+			residual_value,
+			deposit,
+			deposit2,
+			extra
+		)
+		VALUES( 
+			#{tel},
+			#{carMaker},
+			#{carBrand},
+			#{leaseMonth},
+			#{leaseCost},
+			#{advancePayment},
+			#{acquisitionCost},
+			#{residualValue},
+			#{deposit},
+			#{deposit2},
+			#{extra}
+		)
+  	</insert>
+  	
+  	<!-- 주소록 등록 -->
+  	<select id="selectCustomerList" resultType="customerVO">
+		SELECT *
+		FROM customer
+  	</select>
+  	
+</mapper>
